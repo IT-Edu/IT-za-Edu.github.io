@@ -27,10 +27,9 @@ IT не ради денег!
 
 ## Список выпусков
 
-* <iframe src="https://anchor.fm/it-za-edu/embed/episodes/IT-ednusj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-* <iframe src="https://anchor.fm/it-za-edu/embed/episodes/IT-edl1bk" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-* <iframe src="https://anchor.fm/it-za-edu/embed/episodes/IT-edl1h1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-* <iframe src="https://anchor.fm/it-za-edu/embed/episodes/ep-edqqaq" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-* <iframe src="https://anchor.fm/it-za-edu/embed/episodes/ep-eerfkf" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-* <iframe src="https://anchor.fm/it-za-edu/embed/episodes/ep-eerft6" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
+* [Выпуск 6. Кто такие тестировщики?](https://anchor.fm/it-za-edu/episodes/ep-eerft6)
+* [Выпуск 5. Методологии управления проектами в образовании](https://anchor.fm/it-za-edu/episodes/ep-eerfkf)
+* [Выпуск 4. Первый язык программирования для обучения программированию](https://anchor.fm/it-za-edu/episodes/ep-edqqaq)
+* [Выпуск 3. Наставничество в IT](https://anchor.fm/it-za-edu/episodes/IT-edl1h1)
+* [Выпуск 2. Идти или не идти в IT?](https://anchor.fm/it-za-edu/episodes/IT-edl1bk)
+* [Выпуск 1. Обучение и менторство в IT](https://anchor.fm/it-za-edu/episodes/IT-ednusj)
