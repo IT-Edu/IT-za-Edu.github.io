@@ -38,24 +38,24 @@
             <h1>Подкаст "IT за Edu"<br/>
                 <small class="text-muted">IT не ради денег!</small>
             </h1>
-
+            <p class="text-right">
+                <a href="https://vk.com/podcast_it_za_edu"><i class="fab fa-vk"></i></a> <a href="https://t.me/podcast_it_za_edu"><i class="fab fa-telegram"></i></a> <a href="https://www.youtube.com/channel/UC8UfZgI5XR9Cgf2D9b1PKgw"><i class="fab fa-youtube"></i></a>
+            </p>
         </div>
     </div>
     <hr/>
     <div class="row">
         <div class="col">
-            <p>Подкаст об образовании в IT<br/>
+            <p>Подкаст об IT<br/>
                 Собираемся с различными IT-специалистами и беседуем на разные темы.</p>
         </div>
     </div>
     <div class="row">
-        <div class="col">
+        <div class="col-4">
             <h2>Где можно послушать выпуски?</h2>
             <ul>
-                <li><a href="https://vk.com/podcast_it_za_edu">VK</a></li>
-                <li><a href="https://t.me/podcast_it_za_edu">Telegram</a></li>
-                <li><a href="https://www.youtube.com/channel/UC8UfZgI5XR9Cgf2D9b1PKgw">YouTube</a></li>
                 <li><a href="https://music.yandex.ru/album/10653753">Яндекс.Музыка</a></li>
+                <li><a href="https://vk.com/podcasts-194944477">VK Podcasts</a></li>
                 <li><a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xZmJkOTkyMC9wb2RjYXN0L3Jzcw==">Google Podcasts</a></li>
                 <li><a href="https://podcasts.apple.com/us/podcast/it-edu/id1513329008">Apple Podcasts</a></li>
                 <li><a href="https://anchor.fm/it_za_edu">Anchor</a></li>
@@ -67,18 +67,30 @@
                 <li><a href="https://anchor.fm/s/1fbd9920/podcast/rss">RSS</a></li>
             </ul>
         </div>
-        <div class="col-5">
+        <div class="col-8">
             <h2>Информационные партнёры</h2>
-            <ul class="list-unstyled">
-                <li>
-                    <img src="logo/ITEventsRU.png" alt="IT Events RU logo" class="img-thumbnail rounded mx-auto d-block"/>
-                    <p>IT events RU - ещё больше IT-мероприятий по России, а также онлайн. Анонсы каждую неделю.</p>
-                    <ul>
-                        <li><a href="https://t.me/iteventsru">Telegram-канал</a></li>
-                        <li>Instagram</li>
-                    </ul>
-                </li>
-            </ul>
+            <div class="row">
+                <div class="col">
+                    <div class="card">
+                        <img src="logo/ITEventsRU.png" class="img-thumbnail card-img-top" alt="IT Events RU logo">
+                        <div class="card-body">
+                            <p class="card-text">IT events RU - ещё больше IT-мероприятий по России, а также онлайн. Анонсы каждую неделю.</p>
+                            <a href="https://t.me/iteventsru" class="card-link"><i class="fab fa-telegram"></i></a>
+                            <a href="#" class="card-link"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card">
+                        <img src="" class="card-img-top" alt="Google Developer Group Voronezh logo">
+                        <div class="card-body">
+                            <p class="card-text">Google Developer Group Воронеж</p>
+                            <a href="https://t.me/gdgvrn" class="card-link"><i class="fab fa-telegram"></i></a>
+                            <a href="https://vk.com/gdgvoronezh" class="card-link"><i class="fab fa-vk"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <hr/>
@@ -87,7 +99,7 @@
             <h2>Список выпусков</h2>
         </div>
     </div>
-    <div class="row">
+    <div class="row row-cols-3">
         <div class="col-4">
             <div class="card">
                 <div class="card-body">
@@ -181,7 +193,7 @@
             </div>
         </div>
     </div>
-    <div class="row">
+    <div class="row row-cols-3">
         <div class="col-4">
             <div class="card">
                 <div class="card-body">
@@ -250,7 +262,13 @@
                         <dd>начинающий тестировщик, студент Компьютерной Академия ШАГ Воронеж</dd>
                     </dl>
                     <!-- VK Podcast Widget -->
-
+                    <div id="vk_podcast_-194944477_456239024"></div>
+                    <script type="text/javascript" src="https://vk.com/js/api/openapi.js?168"></script>
+                    <script type="text/javascript">
+                        (function() {
+                            VK.Widgets.Podcast("vk_podcast_-194944477_456239024", "-194944477_456239024", '8ed1cc36f5a21d1d09');
+                        }());
+                    </script>
                 </div>
             </div>
         </div>
