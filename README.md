@@ -16,7 +16,7 @@ IT не ради денег!
 * [VK Podcasts](https://vk.com/podcasts-194944477)
 * [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xZmJkOTkyMC9wb2RjYXN0L3Jzcw==)
 * [Apple Podcasts](https://podcasts.apple.com/us/podcast/it-edu/id1513329008)
-* [Anchor](https://anchor.fm/it_za_edu)
+* [Anchor](https://anchor.fm/it-za-edu)
 * [Breaker](https://www.breaker.audio/it-edu)
 * [Castbox](https://castbox.fm/ch/2832208)
 * [RadioPublic](https://radiopublic.com/it-edu-WDz5Bo)
