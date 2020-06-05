@@ -27,6 +27,7 @@ IT не ради денег!
 
 ## Список выпусков
 
+* [Выпуск 7. Девушки в IT](https://anchor.fm/it-za-edu/episodes/7----IT-ef1611)
 * [Выпуск 6. Кто такие тестировщики?](https://anchor.fm/it-za-edu/episodes/ep-eerft6)
 * [Выпуск 5. Методологии управления проектами в образовании](https://anchor.fm/it-za-edu/episodes/ep-eerfkf)
 * [Выпуск 4. Первый язык программирования для обучения программированию](https://anchor.fm/it-za-edu/episodes/ep-edqqaq)
