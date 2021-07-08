@@ -68,6 +68,8 @@
     <!-- Яндекс.Вебмастер -->
     <meta name="yandex-verification" content="cdd09ab877d69a06"/>
 
+    <link rel="stylesheet" href="style.css" />
+
 </head>
 <body>
 <header>
@@ -77,8 +79,8 @@
                 <img class="img-fluid" src="logo/ITzaEdu.png" alt="логотип подкаста">
             </div>
             <div class="col">
-                <h1>IT за Edu<br>
-                    <small>IT не ради денег</small>
+                <h1>IT <span class="color-red">за</span> Edu<br>
+                    <small class="font-p color-blue">IT не ради денег</small>
                 </h1>
                 <p>Подкаст об IT <br/>
                     Собираемся с различными IT-специалистами и беседуем на разные темы.</p>
@@ -98,8 +100,9 @@
 <main>
     <div class="container">
         <div class="row">
+            <!-- Список где можно послушать выпуски -->
             <div class="col-4">
-                <h2>Где можно послушать выпуски?</h2>
+                <h2 class="color-blue">Где можно <span class="color-red">послушать</span> выпуски?</h2>
                 <ul>
                     <li><a href="https://music.yandex.ru/album/10653753" target="_blank">Яндекс.Музыка</a></li>
                     <li><a href="https://vk.com/podcasts-194944477" target="_blank">VK Podcasts</a></li>
@@ -118,15 +121,21 @@
                     <li><a href="https://cloud.mave.digital/32960" target="_blank">RSS</a></li>
                 </ul>
             </div>
+
+            <!-- Список выпусков-->
             <div class="col">
-                <h2>Список выпусков</h2>
-                <h3>Сезон 3</h3>
+                <h2 class="color-red">Список выпусков</h2>
+
+                <hr/>
+
+                <!-- Сезон 3 -->
+                <h3 class="color-blue">Сезон <span class="color-red">3</span></h3>
                 <div class="row row-cols-1 row-cols-md-2">
                     <div class="col">
                         <div class="card h-100">
                             <div class="card-body">
-                                <h5 class="card-title">Языки программирования. Lua</h5>
-                                <h6 class="card-subtitle mb-2 text-muted">Выпуск 2. Сезон 3.</h6>
+                                <h5 class="card-title color-red">Языки программирования. Lua</h5>
+                                <h6 class="card-subtitle mb-2 text-muted color-blue">Выпуск 2. Сезон 3.</h6>
                                 <p class="card-text"></p>
                             </div>
                             <div class="card-footer">
@@ -148,6 +157,9 @@
                     </div>
                 </div>
 
+                <hr/>
+
+                <!-- Сезон 2 -->
                 <h3>Сезон 2</h3>
                 <div class="row row-cols-1 row-cols-md-2">
                     <div class="col">
@@ -212,6 +224,9 @@
                     </div>
                 </div>
 
+                <hr/>
+
+                <!-- Сезон 1 -->
                 <h3>Сезон 1</h3>
                 <div class="row row-cols-1 row-cols-md-2">
                     <div class="col">

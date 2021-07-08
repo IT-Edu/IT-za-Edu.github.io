@@ -1,0 +1,36 @@
+@font-face {
+    src: url("fonts/Raleway.ttf");
+    font-family: Raleway;
+}
+@font-face {
+    src: url("fonts/МК-90.ttf");
+    font-family: MK-90;
+}
+
+body {
+    background: url("img/pattern_mic.jpg") fixed repeat;
+}
+
+header {
+    background: white;
+}
+
+.container {
+    background: white;
+}
+
+h1, h2, h3, h4, .font-head {
+    font-family: MK-90, monospace;
+}
+body, h5, h6, p, .font-p {
+    font-family: Raleway, serif;
+}
+
+.color-red {
+    color: #E42620;
+}
+
+.color-blue {
+    color: #204898;
+}
+
