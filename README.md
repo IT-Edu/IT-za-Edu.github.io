@@ -29,6 +29,7 @@ IT не ради денег!
 ## Список выпусков
 
 * 3-й сезон
+    - [Языки программирования. Net](https://it-za-edu.mave.digital/ep-24)
     - [Языки программирования. Lua](https://it-za-edu.mave.digital/ep-23)
     - [Языки программирования. 1С](https://it-za-edu.mave.digital/ep-22)
 
